@@ -127,13 +127,13 @@ Solve {
   ```
 ## DF-RFeFET 설명
 * In the DF-RFeFET paper, we confirm the performance of the DF-RFeFET through model-calibrated TCAD simulations and observe that it exhibits a larger memory window (MW). Additionally, by optimizing the device, we achieve a large MW of 5.5V. We believe that the DF-RFeFET is a promising candidate for future memory applications, providing valuable insights for further advancements in FeFET technology.
-* More detail about DF-RFeFET in [doc](https://github.com/sami1016/DF-RFeFET_2023_CSM/tree/main/doc)
-* More simulation detail in [project](https://github.com/sami1016/DF-RFeFET_2023_CSM/tree/main/project),we set many parameters more than in the lecture
-	* Fig.1:[MFM_P-E](https://github.com/sami1016/DF-RFeFET_2023_CSM/blob/main/project/mfm.gzp),[Planar FeFET_Id-Vg](https://github.com/sami1016/DF-RFeFET_2023_CSM/blob/main/project/planar.gzp)
-  	* Fig.4:[DF-planar FeFET](https://github.com/sami1016/DF-RFeFET_2023_CSM/blob/main/project/DF-planar.gzp), [SF-RFeFET](https://github.com/sami1016/DF-RFeFET_2023_CSM/blob/main/project/SF-RFeFET.gzp),[DF-RFeFET](https://github.com/sami1016/DF-RFeFET_2023_CSM/blob/main/project/DF-RFeFET.gzp)
- 	* Fig.5:[DF-RFeFET](https://github.com/sami1016/DF-RFeFET_2023_CSM/blob/main/project/DF-RFeFET.gzp)
- 	* Fig.6:[DM-RFeFET](https://github.com/sami1016/DF-RFeFET_2023_CSM/blob/main/project/DM-RFeFET.gzp),[DF-RFeFET_depth](https://github.com/sami1016/DF-RFeFET_2023_CSM/blob/main/project/DF-RFeFET_depth.gzp)
-  	* Fig.7:[intermediate layer](https://github.com/sami1016/DF-RFeFET_2023_CSM/blob/main/project/Intermediate.gzp)
-  	* Fig.8:[EOT=1.2](https://github.com/sami1016/DF-RFeFET_2023_CSM/blob/main/project/HK_sio2_1.2.gzp),[EOT=0.7](https://github.com/sami1016/DF-RFeFET_2023_CSM/blob/main/project/HK_sion_0.7.gzp),[EOT=0.54](https://github.com/sami1016/DF-RFeFET_2023_CSM/blob/main/project/HK_sio2hfo2_0.54.gzp)
+* More detail about DF-RFeFET in [doc](https://github.com/sami1016/DF-RFeFET_2023__CSM/tree/main/doc)
+* More simulation detail in [project](https://github.com/sami1016/DF-RFeFET_2023__CSM/tree/main/project),we set many parameters more than in the lecture
+	* Fig.1:[MFM_P-E](https://github.com/sami1016/DF-RFeFET_2023__CSM/blob/main/project/mfm.gzp),[Planar FeFET_Id-Vg](https://github.com/sami1016/DF-RFeFET_2023__CSM/blob/main/project/planar.gzp)
+  	* Fig.4:[DF-planar FeFET](https://github.com/sami1016/DF-RFeFET_2023__CSM/blob/main/project/DF-planar.gzp), [SF-RFeFET](https://github.com/sami1016/DF-RFeFET_2023__CSM/blob/main/project/SF-RFeFET.gzp),[DF-RFeFET](https://github.com/sami1016/DF-RFeFET_2023__CSM/blob/main/project/DF-RFeFET.gzp)
+ 	* Fig.5:[DF-RFeFET](https://github.com/sami1016/DF-RFeFET_2023__CSM/blob/main/project/DF-RFeFET.gzp)
+ 	* Fig.6:[DM-RFeFET](https://github.com/sami1016/DF-RFeFET_2023__CSM/blob/main/project/DM-RFeFET.gzp),[DF-RFeFET_depth](https://github.com/sami1016/DF-RFeFET_2023__CSM/blob/main/project/DF-RFeFET_depth.gzp)
+  	* Fig.7:[intermediate layer](https://github.com/sami1016/DF-RFeFET_2023__CSM/blob/main/project/Intermediate.gzp)
+  	* Fig.8:[EOT=1.2](https://github.com/sami1016/DF-RFeFET__2023__CSM/blob/main/project/HK_sio2_1.2.gzp),[EOT=0.7](https://github.com/sami1016/DF-RFeFET_2023__CSM/blob/main/project/HK_sion_0.7.gzp),[EOT=0.54](https://github.com/sami1016/DF-RFeFET_2023__CSM/blob/main/project/HK_sio2hfo2_0.54.gzp)
 ## Reference
 [1] Mulaosmanovic,Halid,et al."Ferroelectric field-effect transistors based on HfO<sub>2</sub>: a review".Nanotechnology,vol.32,2021,pp.502002,https://doi.org/10.1088/1361-6528/ac189f.
