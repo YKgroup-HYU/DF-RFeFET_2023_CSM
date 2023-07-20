@@ -32,7 +32,7 @@ kn = (0.0000e+00, 0.0000e+00, 0.0000e+00) #[cm*s/V]
 }}
   ```
   * sdevice: Id-Vg output method
- 	  ![image](https://github.com/sami1016/DF-RFeFET_2023_CSM/blob/main/voltage.png) [1]
+ 	  ![image](https://github.com/sami1016/DF-RFeFET_2023__CSM/blob/main/voltage.png) [1]
 	 * The Id-Vg curves are simulated by using a read Vg sweep after the program and erase operation, like the upper picture.
  	 * Firstly, we set up a sdevice tool called *sdevice1* to perform the program/erase operation.
   	 * program/erase operation code:
